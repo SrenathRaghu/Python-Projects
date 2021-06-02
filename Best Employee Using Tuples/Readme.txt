@@ -1,1 +1,1 @@
-
+Best Employee program will return both the name and number of hours worked for the top performer in an Organization. Award will be given to an employee who worked for Maximum number of hours in a month.
