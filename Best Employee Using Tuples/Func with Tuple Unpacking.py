@@ -12,7 +12,7 @@ def best_emp(Employee_List):
         
         if hours > curr_hours:
             
-            curr_hours = hours
+            curr_hours = hourss
             
             emp_of_month = emp_name
             
